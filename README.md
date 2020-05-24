@@ -1,4 +1,4 @@
-# Instagram-BioLookup-Engine
+# Instagram BioLookup Engine
 ## Background
 Instagram is a photo and video-sharing social networking service launched in October 2010 and
 currently owned by Facebook, Inc. In September 2017, Instagram had 800 million monthly
